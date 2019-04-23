@@ -1,5 +1,5 @@
-# simple-message-push
-netty入门demo，单机版消息推送
+
+netty单机版消息推送demo
 
 # run
 - 先运行PushServer.java
